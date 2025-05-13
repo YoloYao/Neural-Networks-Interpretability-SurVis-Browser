@@ -74,7 +74,6 @@
         "volume": "",
         "year": "2017"
     },
-
     "Wu2024Classical": {
         "abstract": "Classical parameter-space Bayesian inference for Bayesian neural networks (BNNs) suffers from several unresolved prior issues, such as knowledge encoding intractability and pathological behaviours in deep networks, which can lead to improper posterior inference. To address these issues, functional Bayesian inference has recently been proposed leveraging functional priors, such as the emerging functional variational inference. In addition to variational methods, stochastic gradient Markov Chain Monte Carlo (MCMC) is another scalable and effective inference method for BNNs to asymptotically generate samples from the true posterior by simulating continuous dynamics. However, existing MCMC methods perform solely in parameter space and inherit the unresolved prior issues, while extending these dynamics to function space is a non-trivial undertaking. In this paper, we introduce novel functional MCMC schemes, including stochastic gradient versions, based on newly designed diffusion dynamics that can incorporate more informative functional priors. Moreover, we prove that the stationary measure of these functional dynamics is the target posterior over functions. Our functional MCMC schemes demonstrate improved performance in both predictive accuracy and uncertainty quantification on several tasks compared to naive parameter-space MCMC and functional variational inference.",
         "author": "Wu, Mengjing and Xuan, Junyu and Lu, Jie",
