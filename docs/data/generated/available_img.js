@@ -1,1 +1,1 @@
-const availableImg = ["Russell2021DeepLearning","Beck2016Visual","Weytjens2022Uncertainty","Dai2024Kernel","Michelmore2018DNN","Chung2021MachineLearning","Hüllermeier2021Uncertainty","Ghoshal2022Uncertainty","Pawlowski2017Neural","Kabir2018Uncertainty","Wu2024Classical"];
+const availableImg = ["Russell2021DeepLearning","Beck2016Visual","Weytjens2022Uncertainty","Dai2024Kernel","Michelmore2018DNN","Chung2021MachineLearning","Hüllermeier2021Uncertainty","Ghoshal2022Uncertainty","Pawlowski2017Neural","Kabir2018Uncertainty","Wu2024Classical"];
